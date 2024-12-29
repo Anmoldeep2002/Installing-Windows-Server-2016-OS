@@ -25,3 +25,12 @@ STEP 2: <br/>
 
 <p align="center">The next step is to click where it says “NEW”. This function will allow me to add a virtual client inside the software “VirtualBox”. In this case, I will try to add “Windows Server 2016” which will be used for active directory, to create a domain and manage all clients on the domain.</p>
 
+<br />
+
+<p align="center"> 
+STEP 3: <br/>
+<img src="https://i.imgur.com/97ybWrN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
+
+
+<p align="center">The next step is to add informations about the virtual machine that I want to add and configure it with the appropriate needs. As you can see, I’ve filled all of the informations required for this virtual machine. I’ve included the name with “Windows Server 2016” and selected the version as “Windows 2016 (64-bit)”. After this is done, I proceeded by click on the button “Next”. As you can see, I haven’t selected an ISO image to run the Operating System of Windows, I will add it once I run the actual Virtual Machine.</p>
+

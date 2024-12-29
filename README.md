@@ -14,7 +14,7 @@ Launch Oracle VirtualBox: <br/>
 <img src="https://i.imgur.com/AV5utKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
 
 
-<p align="center">This is the first step in this project. I’ve installed the software called “ORACLE VIRTUALBOX” and this software will allow me to install and manage virtual devices on my laptop. Using this software will allow me to create a small network in which I will create a domain and that domain will include a server and some clients. I will also be able to use “Active Directory” to manage users and computers.</p>
+<p align="center">This is the first step of this project. I have installed the software ORACLE VIRTUALBOX, which allows me to install and manage virtual devices on my laptop. The use of this software allows me to create a small network where I create a domain that includes a server and some clients.</p>
 
 <br />
 

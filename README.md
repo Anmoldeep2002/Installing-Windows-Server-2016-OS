@@ -157,9 +157,33 @@ STEP 8: <br/>
 <p align="center">Finally, the Operating System (OS) is being installed, as shown in the image above. The installation procedure will progress through several stages, and once completed, I will be given the choice to move to the next step.</p>
 
 
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/E1IAkvI.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">The installation is complete, and it is now requiring me to set up a password for the local "Administrator" account, which will be used to access the Server VM I've typed the password and set it to "Office123". I then hit "Finish" to conclude the OS installation process for this VM.</p>
 
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/W7V6nPb.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">The installation is complete, and it is now requiring me to set up a password for the local "Administrator" account, which will be used to access the Server VM I've typed the password and set it to "Office123". I then hit "Finish" to conclude the OS installation process for this VM.</p>
+
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/n5P8cEl.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">This section appeared automatically after signing into the Virtual Machine. As you can see, this is the "Server Manager" section, which is crucial because it will allow me to install "Active Directory", create a domain, and carry out a variety of other things required for this lab-based project.</p>
 
 
 

@@ -110,10 +110,51 @@ STEP 7: <br/>
 <hr width="100%" size="2">
 
 
+<br />
+
+<p align="center"> 
+STEP 8: <br/>
+<img src="https://i.imgur.com/BZ1ZMPT.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">The Virtual Machine has been successfully loaded with the Windows operating system. As you can see, I'm on the initial setup page, where I can configure the VM based on my requirements. In this instance, I click the "NEXT" button to proceed to the next step.</p>
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/yV20weV.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">It's asking me which version of Windows to select. In this instance, I selected the second option. The reason for this is that the second option contains a GUI interface, which makes it easier for me to navigate the OS. I did not select the first choice because it lacks a GUI and will make it more difficult for me to manage the Virtual Machine. After selecting the version to install, I clicked "NEXT" to move on to the next stage.</p>
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/Dyf6B6N.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">It's asking me to choose the type of installation to execute. There are just two options: "upgrade" or "custom install" the OS. In this case, I opt for the second option because I am interested in installing the OS rather than upgrade it.</p>
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/mVOUcnw.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">In this phase, it asks where I would like to install Windows. As you can see, I just have one hard drive, "DRIVE 0", and it has 32GB of free space. In this instance, I click "DRIVE 0" and move on to the next stage.</p>
+
+
+<br />
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/GbG21Vk.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">Finally, the Operating System (OS) is being installed, as shown in the image above. The installation procedure will progress through several stages, and once completed, I will be given the choice to move to the next step.</p>
 
 
 
